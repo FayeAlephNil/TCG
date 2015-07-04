@@ -1,6 +1,6 @@
-Design for TCG
+# Design for TCG
 
-Vision: Social Aspect of MMOs combined with the collectible aspect of TCGs and CCGs
+# Vision: Social Aspect of MMOs combined with the collectible aspect of TCGs and CCGs
 
 # Core Mechanics
 
